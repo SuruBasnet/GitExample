@@ -1,1 +1,2 @@
-hjaskjdahsk, kjaskdjhaskkaskjdhaskj, kjasdkjhaskj,jkfkasjh,kjhaskdjhas,asndkasjnd
+- We can add projects in github so we can remove it from our local device
+- Collaboration

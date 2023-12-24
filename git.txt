@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello world, this change will not be tracked because this projects repository doesnot know about this file, this changes modifies this file, this is change i should add and commit. this change will only appear in master branch
-hello world, this change will not be tracked because this projects repository doesnot know about this file, this changes modifies this file, this is change i should add and commit. This change is for only suru branch
-=======
 hello world, this change will not be tracked because this projects repository doesnot know about this file, this changes modifies this file, this is change i should add and commit. a
->>>>>>> parent of e56e83a (change)
